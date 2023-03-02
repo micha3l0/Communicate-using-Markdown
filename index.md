@@ -5,3 +5,6 @@
 $ git init
 Initialized empty Git repository in /micha3l0/Communicate-using-Markdown
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
